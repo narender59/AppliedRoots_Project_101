@@ -8,8 +8,8 @@ import pandas as pd
 
 import warnings
 warnings.filterwarnings("ignore")
-import pickle
-import joblib
+# import pickle
+# import joblib
 
 def no_failure():
     txt="The machine is safe!"
